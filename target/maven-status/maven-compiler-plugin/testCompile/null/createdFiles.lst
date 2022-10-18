@@ -1,4 +1,3 @@
 META-INF/panache-archive.marker
 clean/quarkus/ArchTest.class
 clean/quarkus/GreetingResourceIT.class
-clean/quarkus/GreetingResourceTest.class

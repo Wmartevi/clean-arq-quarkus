@@ -5,8 +5,6 @@ services:
     container_name: mysql-clean-quarkus
     environment:
       - MYSQL_DATABASE=quarkus
-      - MYSQL_ROOT_PASSWORD=quarkus
-      - MYSQL_USER=quarkus
-      - MYSQL_PASSWORD=quarkus
+      - MYSQL_ROOT_PASSWORD=root
     ports:
       - "3306:3306"
