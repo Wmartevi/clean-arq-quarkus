@@ -13,3 +13,4 @@
 
 # Fluxo
 
+![clean_arch_quarkus](https://user-images.githubusercontent.com/34892569/196428226-06a637be-9657-4a61-902e-94c01ef808f9.png)
